@@ -1,5 +1,6 @@
 # Drone
 GIỚI THIỆU DỰ ÁN: HỆ THỐNG GIAO HÀNG TỰ HÀNH THÔNG MINH QUA GIAO THỨC IOT
+
 Bối cảnh và Tầm nhìnTrong bối cảnh đô thị hóa nhanh chóng và nhu cầu giao hàng chặng cuối (Last-mile delivery) bùng nổ, các phương thức vận chuyển truyền thống đang dần bộc lộ những hạn chế về chi phí và thời gian. Dự án nghiên cứu và phát triển giải pháp Drone tự hành tích hợp IoT, hướng tới việc thiết lập một quy trình vận chuyển khép kín, tối ưu hóa từ khâu cất cánh, thả hàng tại điểm tập kết (Helipad) cho đến việc tự động quay trở về trạm sạc.
 
 Giải pháp Kỹ thuật và Vận hànhHệ thống không chỉ đơn thuần là một thiết bị bay điều khiển từ xa, mà là một thực thể thông minh trong mạng lưới Vạn vật kết nối (IoT).Chế độ tự hành chính xác: Drone di chuyển theo lộ trình định sẵn từ điểm A đến điểm B dựa trên dữ liệu GPS và cảm biến tiệm cận.Cơ chế thả hàng thông minh: Tại điểm đích H (Helipad), hệ thống điều khiển cơ cấu Servo thực hiện thao tác nhả hàng chính xác, đảm bảo tính an toàn và nguyên vẹn cho sản phẩm.Giao thức kết nối: Toàn bộ trạng thái của thiết bị (vị trí, tốc độ, tình trạng hàng hóa) được đồng bộ hóa theo thời gian thực về trung tâm điều hành qua hạ tầng mạng không dây.
